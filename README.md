@@ -169,6 +169,9 @@ Step 6 — Report:
 
 ## 前置条件
 
+> 首次使用？请先按操作系统完成 Charles 安装与配置：
+> [macOS](docs/install/charles-macos.md) · [Windows](docs/install/charles-windows.md) · [Linux](docs/install/charles-linux.md)
+
 - Python 3.10+
 - 本机已启动 Charles Proxy
 - Charles Web Interface 已启用

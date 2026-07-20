@@ -10,6 +10,7 @@ This page is the canonical documentation entrypoint for `charles-mcp`.
 - [Agent Workflow Guide](./agent-workflows.md): task-oriented workflow playbooks
 - [Tool Contract](./contracts/tools.md): canonical public tool surface and per-tool contract
 - [Legacy Migration](./migrations/legacy-tools.md): compatibility aliases and migration paths
+- [Install Guides](./install/): per-OS Charles Proxy installation and configuration (macOS / Windows / Linux, zh + en)
 
 ## Responsibility boundaries
 
@@ -18,3 +19,4 @@ This page is the canonical documentation entrypoint for `charles-mcp`.
 - Workflow sequencing lives in `docs/agent-workflows.md`.
 - Public API/tool contract lives in `docs/contracts/tools.md`.
 - Legacy compatibility migration guidance lives in `docs/migrations/legacy-tools.md`.
+- Per-OS Charles install & configuration guides live in `docs/install/`.

@@ -169,6 +169,9 @@ Step 6 — Report:
 
 ## Requirements
 
+> First time? Install and configure Charles for your OS first:
+> [macOS](docs/install/charles-macos.en.md) · [Windows](docs/install/charles-windows.en.md) · [Linux](docs/install/charles-linux.en.md)
+
 - Python 3.10+
 - Charles Proxy running locally
 - Charles Web Interface enabled
